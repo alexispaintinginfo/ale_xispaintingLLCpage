@@ -18,7 +18,7 @@ export default function Services() {
     {
       title: 'Remediation Services',
       description: 'Expert mold and water damage remediation to ensure your property is safe and sound.',
-      icon: <ShieldCheck className="h-8 w-8 text-blue-600" />,
+      icon: <Droplets className="h-8 w-8 text-blue-600" />,
       image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop',
     },
     {
@@ -30,7 +30,7 @@ export default function Services() {
     {
       title: 'Stucco Repair',
       description: 'Expert stucco repair and texturing to restore the integrity and appearance of your exterior walls.',
-      icon: <Droplets className="h-8 w-8 text-blue-600" />,
+      icon: <ShieldCheck className="h-8 w-8 text-blue-600" />,
       image: 'https://www.cincihomepro.com/wp-content/gallery/stucco-resurface-repair/r.jpg',
     },
     {
